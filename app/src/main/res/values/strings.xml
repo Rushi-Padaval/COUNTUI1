@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project!</string>
+    <string name="button_label_toast">Hey</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Hello Connections!</string>
+</resources>
