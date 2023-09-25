@@ -4,5 +4,19 @@ For creating this apk i use android studio. this apk conatins 2 buttons 1st is h
 
 for the incrementaion i use a for loop in java . 
 
+the things i learn from this --
+
+1) Android App Development  (Basics Very Limited Knowledge I have In The Android Studio)
+I learned how to create a basic Android app using Android Studio.
+Understanding the structure of an Android project, including activities, layouts, and resources.
+
+2)User Interface (UI) Design
+Designing a simple and intuitive user interface with buttons and text views.
+Using XML layout files to define the app's UI.
+
+3)Event Handling
+Implementing button click events to trigger actions in the app.
+Demonstrating the use of toast messages to provide feedback to the user.
+
 
 
