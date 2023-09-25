@@ -19,7 +19,7 @@ Designing a simple and intuitive user interface with buttons and text views.
 3.Event Handling
 
  Implementing button click events to trigger actions in the app.
-  Demonstrating the use of toast messages to provide feedback to the user.
+  Demonstrating the use of hey connections! messages to provide feedback to the user.
 
 
 
